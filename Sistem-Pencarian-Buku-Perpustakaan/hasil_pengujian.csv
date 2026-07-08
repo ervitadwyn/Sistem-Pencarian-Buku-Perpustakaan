@@ -1,0 +1,5 @@
+Jumlah Data,Sequential Avg (ms),Sequential Compare,BST Avg (ms),BST Compare,BST Balanced Avg (ms),BST Balanced Compare,BST Height,Balanced Height
+100,0.018693,51,0.023673,51,0.0032,6,100,7
+500,0.064358,251,0.025863,251,0.001221,8,500,9
+1000,0.034613,501,0.050767,501,0.001327,9,1000,10
+1141,0.040717,571,0.058044,571,0.000195,1,1141,11
